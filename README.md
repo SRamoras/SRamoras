@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm [Your Name] 👋
 
-<!--
-**SRamoras/SRamoras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 👨‍💻 I am a developer specialized in **Front-end**. I love creating interfaces that provide an exceptional user experience.
+- 🖥️ While my focus is on Front-end, I also have experience in **Back-end**, capable of handling server functionalities, but I am still improving in this area.
+- 📚 I am currently deepening my knowledge in [Specific Technology or Skill you are learning].
+- 🤝 I am open to collaborating on projects that allow me to grow both in Front-end and Back-end.
 
-Here are some ideas to get you started:
+## Technologies I Use
+- **Front-end**: HTML, CSS, JavaScript, React, Vue.js
+- **Back-end**: Node.js, Express (Basic knowledge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Stats
+![Your GitHub username Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true)
+
+## Contact
+- 📫 How to reach me: diogomcsilva5@gmail.com
+- LinkedIn: [Diogo Silva]([LinkedIn URL](https://www.linkedin.com/in/diogo-silva-94068613b/))
