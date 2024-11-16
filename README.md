@@ -15,4 +15,4 @@
 
 ## Contact
 - 📫 How to reach me: diogomcsilva5@gmail.com
-- LinkedIn: [Diogo Silva]((https://www.linkedin.com/in/diogo-silva-94068613b/))
+
