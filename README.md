@@ -7,8 +7,8 @@
 - 🤝 I am open to collaborating on projects that allow me to grow both in Front-end and Back-end.
 
 ## Technologies I Use
-- **Front-end**: HTML, CSS, JavaScript, React, Vue.js
-- **Back-end**: Node.js, Express (Basic knowledge)
+- **Front-end**: HTML, CSS, JavaScript, json, React.
+- **Back-end**: php, MySql, (Basic knowledge)
 
 ## My Stats
 ![Your GitHub username Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true)
