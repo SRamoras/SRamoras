@@ -7,7 +7,7 @@
 - 🤝 I am open to collaborating on projects that allow me to grow both in Front-end and Back-end.
 
 ## Technologies I Use
-- **Front-end**: HTML, CSS, JavaScript, json, React.
+- **Front-end**: HTML, CSS, JavaScript, json, React.js.
 - **Back-end**: node.js, php, MySql, (Basic knowledge)
 
 ## My Stats
