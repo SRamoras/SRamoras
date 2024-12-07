@@ -8,7 +8,7 @@
 
 ## Technologies I Use
 - **Front-end**: HTML, CSS, JavaScript, json, React.js.(Advanced knowledge)
-- **Back-end**: node.js, php, PostgresSQL, MySQL, Insomnia (Basic/Medium knowledge)
+- **Back-end**: node.js, php, PostgresSQL, MySQL, Insomnia, Express.js (Basic/Medium knowledge)
 
 ## My Stats
 ![Your GitHub username Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true)
