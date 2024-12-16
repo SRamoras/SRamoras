@@ -17,6 +17,7 @@ Hi 👋! My name is Diogo and I'm a junior Full-Stack with 6 months of experienc
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Insomnia](https://img.shields.io/badge/Insomnia-%23FF4785.svg?style=for-the-badge&logo=insomnia&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SRamoras&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
