@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi 👋! My name is Diogo and I'm a junior Full-Stack with 1 year of experience
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diogo-silva-94068613b) 
 
@@ -19,10 +20,13 @@ Hi 👋! My name is Diogo and I'm a junior Full-Stack with 1 year of experience
 ![Insomnia](https://img.shields.io/badge/Insomnia-%23FF4785.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SRamoras&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=SRamoras&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SRamoras&theme=neon&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SRamoras&theme=prussian&hide_border=false)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SRamoras&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SRamoras&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SRamoras&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
