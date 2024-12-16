@@ -7,8 +7,8 @@
 - 🤝 I am open to collaborating on projects that allow me to grow both in Front-end and Back-end.
 
 ## Technologies I Use
-- **Front-end**: HTML, CSS, JavaScript, json, React.js.(Advanced knowledge)
-- **Back-end**: node.js, php, PostgresSQL, MySQL, Insomnia, Express.js (Basic/Medium knowledge)
+- **Front-end**: HTML, CSS, JavaScript, json, React.js.(Advanced knowledge).
+- **Back-end**: node.js, php, PostgresSQL, MySQL, Insomnia, Express.js (Basic/Medium knowledge).
 
 ## My Stats
 ![SRamoras](https://github-readme-stats.vercel.app/api?username=SRamoras&show_icons=true)
