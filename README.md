@@ -11,7 +11,7 @@
 - **Back-end**: node.js, php, PostgresSQL, MySQL, Insomnia, Express.js (Basic/Medium knowledge)
 
 ## My Stats
-![Your GitHub username Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true)
+![SRamoras](https://github-readme-stats.vercel.app/api?username=SRamoras&show_icons=true)
 
 ## Contact
 - 📫 How to reach me: diogomcsilva5@gmail.com
