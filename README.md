@@ -1,5 +1,5 @@
 # 😆 About Me:
-Hi 👋! My name is Diogo and I'm a junior Full-Stack with 6 months of experience
+Hi 👋! My name is Diogo and I'm a junior Full-Stack developer with 6 months of experience
 
 
 ## 🌐 Socials:
