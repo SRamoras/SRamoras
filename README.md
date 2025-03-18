@@ -19,14 +19,11 @@ Hi 👋! My name is Diogo and I'm a junior Full-Stack developer with 6 months of
 ![Insomnia](https://img.shields.io/badge/Insomnia-%23FF4785.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats:
-<div>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRamoras&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRamoras&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<div style="display: flex; gap: 1rem;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SRamoras&theme=prussian&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRamoras&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
 </div>
+
 
 
 
