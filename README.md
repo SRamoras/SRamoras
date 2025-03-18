@@ -17,7 +17,7 @@
 
 ###
 
-- 📚 Highly motivated and skilled Front-end developer driven by a passion for problem-solving, designing efficient solutions, and fostering effective team collaboration.
+- 😋 Highly motivated and skilled Front-end developer driven by a passion for problem-solving, designing efficient solutions, and fostering effective team collaboration.
 - 👀 I’m interested in : `React.js`, `Node.js`, `Express.js` ...
 - 🌱 I’m currently learning : `TypeScript`, `Clean Code`
 
