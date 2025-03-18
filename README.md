@@ -20,15 +20,14 @@ Hi 👋! My name is Diogo and I'm a junior Full-Stack developer with 6 months of
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
+<div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRamoras&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRamoras&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
 
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SRamoras&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
