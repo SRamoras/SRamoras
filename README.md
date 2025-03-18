@@ -1,4 +1,4 @@
-# 👋 Hi, I’m S1lva [![](https://img.shields.io/static/v1?label=&message=Contact-me&style=flat&branch=6.x&logo=gmail&color=eee) ](mailto:diogomcsilvawork@gmail.com)
+# 👋 Hi, I’m S1lva [![](https://img.shields.io/static/v1?label=&message=diogomcsilvawork&style=flat&branch=6.x&logo=gmail&color=eee) ](mailto:diogomcsilvawork@gmail.com)
 
 <p align="center">A <b>Front-End</b> developer from Protugal</p>
 
