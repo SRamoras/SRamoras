@@ -9,11 +9,9 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=SRamoras" height="150" alt="languages graph"  />
 </div>
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/b/count.svg?"  />
-</div>
+
+
 
 ###
 
