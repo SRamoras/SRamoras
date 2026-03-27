@@ -18,7 +18,7 @@
 
 ###
 <h3>A <b>Full-Stack</b> developer from Portugal</h3>
-Highly motivated and skilled Front-end developer driven by a passion for problem-solving, designing efficient solutions, and fostering effective team collaboration.
+Highly motivated and skilled developer driven by a passion for problem-solving, designing efficient solutions, and fostering effective team collaboration.
 
 <h3 align="left">Main Languages and Tools</h3>
 <h4>Frontend</h4>
