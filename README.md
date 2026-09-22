@@ -28,7 +28,7 @@ Highly motivated and skilled developer driven by a passion for problem-solving, 
 
 <h4>Infrastructure</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,vercel,cloudflare" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,vercel,cloudflare,figma" height="40" />
 </p>
 
 ---
