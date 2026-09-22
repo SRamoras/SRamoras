@@ -3,11 +3,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=SRamoras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="165" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SRamoras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&bg_color=0d1117&title_color=d0342c&icon_color=4a7fe8&text_color=ffffff&border_color=4a7fe8" height="165" alt="stats graph" />
    
-  <img src="https://streak-stats.demolab.com?user=SRamoras&theme=tokyonight&hide_border=false" height="165" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=SRamoras&hide_border=false&background=0D1117&border=4A7FE8&stroke=4A7FE8&ring=D0342C&fire=D0342C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4A7FE8&sideLabels=D0342C&dates=94A3B8" height="165" alt="streak stats" />
 </div>
-
 
 
 
